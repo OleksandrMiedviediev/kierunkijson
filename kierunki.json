@@ -1,0 +1,12 @@
+{
+  "editors": ["11599168","11599167"],
+
+  "fixed": [
+    { "box": "BOX1", "direction": "KIERUNEK-A" },
+    { "box": "BOX2", "direction": "KIERUNEK-B" }
+  ],
+  "gates": [
+    { "direction": "KIERUNEK-A", "gate": "BRAMA 12" },
+    { "direction": "KIERUNEK-B", "gate": "BRAMA 7" }
+  ]
+}
