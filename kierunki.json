@@ -2,11 +2,11 @@
   "editors": ["11599168","11599167"],
 
   "fixed": [
-    { "box": "Oleksandr", "direction": "KIERUNEK-A" },
+    { "box": "Ulubione", "direction": "KIERUNEK-A" },
     { "box": "BOX2", "direction": "KIERUNEK-B" }
   ],
   "gates": [
-    { "direction": "Oleksandr", "gate": "BRAMA 12" },
+    { "direction": "Ulubione", "gate": "BRAMA 12" },
     { "direction": "KIERUNEK-B", "gate": "BRAMA 7" }
   ]
 }
