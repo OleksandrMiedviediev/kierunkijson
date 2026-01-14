@@ -2,11 +2,11 @@
   "editors": ["11599168","11599167"],
 
   "fixed": [
-    { "box": "Ulubione", "direction": "KIERUNEK-A" },
+    { "box": "bankowym", "direction": "KIERUNEK-A" },
     { "box": "BOX2", "direction": "KIERUNEK-B" }
   ],
   "gates": [
-    { "direction": "Ulubione", "gate": "BRAMA 12" },
+    { "direction": "bankowym", "gate": "BRAMA 12" },
     { "direction": "KIERUNEK-B", "gate": "BRAMA 7" }
   ]
 }
