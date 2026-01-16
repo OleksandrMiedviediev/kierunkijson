@@ -1,7 +1,5 @@
 {
   "fixed": [
-    {
-  "fixed": [
     { "box": "BOX-D-079", "direction": "LH-HAJ8-BAG" },
     { "box": "BOX-D-081", "direction": "LH-HAJ8-MIX" },
     { "box": "BOX-D-082", "direction": "LH-FRAX-BAG" },
@@ -63,7 +61,6 @@
   ]
 }
 
-  ],
   {
   "gates": [
     { "direction": "AIR-HAJA-MADB", "gate": "OB128" },
