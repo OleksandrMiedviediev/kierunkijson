@@ -59,9 +59,7 @@
     { "box": "FLAT-C-002", "direction": "AMZL-DTH1-ND-F-VCRI" },
     { "box": "FLAT-C-001", "direction": "LH-HAJ8-MIX-F-VCRI" }
   ]
-},
 
-  {
   "gates": [
     { "direction": "AIR-HAJA-MADB", "gate": "OB128" },
     { "direction": "AIR-POZ2-HAJA-MADB", "gate": "OB128" },
